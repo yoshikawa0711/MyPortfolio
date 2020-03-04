@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    font-family: 'Segoe Print';
+    
+}
+
+.header .title {
+    background-color: #E5CA9A;
+    color: #330000;
+    padding: 50px;
+}
