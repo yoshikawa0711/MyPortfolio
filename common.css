@@ -13,3 +13,14 @@
     color: #330000;
     padding: 50px;
 }
+
+.footer {
+    background-color: #E5CA9A;
+    color: #330000;
+    margin-top: 30px;
+    padding: 30px;
+}
+
+.footer .copyright {
+    text-align: right;
+}
