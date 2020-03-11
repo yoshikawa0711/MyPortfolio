@@ -3,15 +3,16 @@
     padding: 0px;
 }
 
-.header {
-    font-family: 'Segoe Print';
-    
+.title {
+    font-family: 'Segoe Print'; 
+    font-weight: normal;
+    color: #330000;
 }
 
 .header .title {
     background-color: #E5CA9A;
-    color: #330000;
     padding: 50px;
+    font-weight: bold;
 }
 
 .footer {
