@@ -3,6 +3,10 @@
     padding: 0px;
 }
 
+.header {
+    font-family: 'Segoe Print'; 
+}
+
 .title {
     font-family: 'Segoe Print'; 
     font-weight: normal;
@@ -13,6 +17,17 @@
     background-color: #E5CA9A;
     padding: 50px;
     font-weight: bold;
+}
+
+.tab {
+    margin-top: 20px;
+    margin-bottom: 30px; 
+} 
+
+.item {
+    font-size: 16pt;
+    background-color: #330000;
+    padding: 20px 5% 20px 5%;
 }
 
 .footer {
