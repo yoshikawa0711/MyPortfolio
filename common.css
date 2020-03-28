@@ -26,7 +26,9 @@
 
 .item {
     font-size: 16pt;
+    text-decoration: none;
     background-color: #330000;
+    color: #E5CA9A;
     padding: 20px 5% 20px 5%;
 }
 
